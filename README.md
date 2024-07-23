@@ -6,6 +6,6 @@ Gostaria muito do feedback de vocês 😁
 
 [<img src="./src/desktop.gif">](https://www.linkedin.com/in/gustavo-silva-564b9a316/)
 
-Clicando nos gifs você será derecionado para o meu Linkdin
+Clicando nos gifs você será direcionado para o meu Linkdin
 
 [<img src="./src/responsive.gif">](https://www.linkedin.com/in/gustavo-silva-564b9a316/)
