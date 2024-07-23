@@ -1,0 +1,7 @@
+:root {
+    --sedan-cars: hsl(31, 77%, 52%);
+
+    --suvs-cars: hsl(184, 100%, 22%);
+
+    --luxury-cars: hsl(179, 100%, 13%);
+}

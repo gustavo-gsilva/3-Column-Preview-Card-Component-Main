@@ -1,0 +1,16 @@
+@media (max-width: 945px) {
+    .container {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .container .card {
+        width: 270px;
+        height: 370px;
+        padding: 45px 35px;
+    }
+
+    .container p {
+        margin-bottom: 5px;
+    }
+}
